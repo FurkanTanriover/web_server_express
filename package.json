@@ -1,0 +1,24 @@
+{
+  "name": "web_server_express",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FurkanTanriover/web_server_express.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FurkanTanriover/web_server_express/issues"
+  },
+  "homepage": "https://github.com/FurkanTanriover/web_server_express#readme",
+  "dependencies": {
+    "express": "^4.18.1",
+    "joi": "^17.6.0"
+  }
+}
